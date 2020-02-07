@@ -10,8 +10,8 @@ This is a simple terminal game written in (<B>C</B>) using the (<B>ncurses</B>) 
 - Collision with asteroids takes your life.
 - The game ends when the player runs out of energy or if the player pressed 'q'.
 # Installing and running game
-git clone https://github.com/volkov7/Multithread-game.git
-install:
+git clone https://github.com/volkov7/Multithread-game.git \
+install:\
 if you on MAC OS
 ```
 make && make clean
