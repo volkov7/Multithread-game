@@ -12,12 +12,12 @@ This is a simple terminal game written in (<B>C</B>) using the (<B>ncurses</B>) 
 # Installing and running game
 git clone https://github.com/volkov7/Multithread-game.git \
 install:\
-if you on MAC OS
+if you don't use MAC OS check 2 point of game_report.pdf.
 ```
 make && make clean
 ```
-else check 2 point of game_report.pdf. 
 running:
 ```
 ./game
 ```
+![Space game](https://github.com/volkov7/Multithread-game/raw/master/game.png)
