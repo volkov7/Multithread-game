@@ -20,4 +20,6 @@ running:
 ```
 ./game
 ```
+You can also use the assembled image on which the game starts. Using qemu for instance, you can launch the game.iso image.\
+Run command: qemu-system-x86_64 -cdrom /path/to/game.iso -m 1024
 ![Space game](https://github.com/volkov7/Multithread-game/raw/master/game.png)
