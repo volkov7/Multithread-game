@@ -1,4 +1,6 @@
 # Multithread-game on ncurses
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+
 This is a simple terminal game written in (<B>C</B>) using the (<B>ncurses</B>) library. This is my homework from university. All information about this project you can check in game_report.pdf.
 # The (learning) goals of the project:
 - Learn how to split a single-threaded program into multi-threaded.(+)
